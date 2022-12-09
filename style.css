@@ -1,0 +1,26 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    box-shadow: 7px 5px 8px #8888884f;
+}
+
+.card-weather-container {
+    background-image: linear-gradient(to bottom right, #f7f8fa, #416b69);
+
+}
+
+p {
+    margin-bottom: 2px;
+}
+
+.jumbotron {
+    padding: 3rem 1rem;
+}
+
+#cityName {
+    text-transform: capitalize;
+}
